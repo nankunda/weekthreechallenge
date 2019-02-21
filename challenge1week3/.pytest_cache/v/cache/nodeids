@@ -1,0 +1,9 @@
+[
+  "listsort/list_sort_test.py::listsortTest::test_complete_list",
+  "listsort/list_sort_test.py::listsortTest::test_empty_list",
+  "listsort/list_sort_test.py::listsortTest::test_integer_input",
+  "listsort/list_sort_test.py::listsortTest::test_no_even",
+  "listsort/list_sort_test.py::listsortTest::test_no_odd",
+  "listsort/list_sort_test.py::listsortTest::test_no_string",
+  "listsort/list_sort_test.py::listsortTest::test_string_input"
+]

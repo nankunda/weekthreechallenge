@@ -1,0 +1,10 @@
+{
+  "listsort/list_sort_test.py::listsortTest::test_complete_list": true,
+  "listsort/list_sort_test.py::listsortTest::test_empty_list": true,
+  "listsort/list_sort_test.py::listsortTest::test_integer_input": true,
+  "listsort/list_sort_test.py::listsortTest::test_no_even": true,
+  "listsort/list_sort_test.py::listsortTest::test_no_odd": true,
+  "listsort/list_sort_test.py::listsortTest::test_no_string": true,
+  "listsort/list_sort_test.py::listsortTest::test_string_input": true,
+  "missingnumbers/missing_list_test.py": true
+}
